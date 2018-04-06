@@ -1,5 +1,5 @@
 # CppTimer
-Header only `Timer` class based on C++11 `std::chrono`.
+Header only `Timer` class based on C++11 `std::chrono`. Simply download the `Timer.hpp` file and include it where required.
 
 ## Example
 
